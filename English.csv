@@ -1,0 +1,4 @@
+InputType,抽象の英単語は？,abstract
+InputType,予算の英単語は？(b),budget
+Choice,「～を発行する」の英単語は？,2,publisher,publish,expand
+Choice,「…を案内する」の英単語は？,3,make a purchase,encase,show around
